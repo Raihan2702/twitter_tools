@@ -2,13 +2,13 @@ import time
 import requests , os
 import pyfiglet
 
-api = "SGB-E3R4I5ooGP"
+api = "PUT YOUR API HERE"
 
 mydata = { "api" : api,
-         "consumer_key" : "PHuecnwwhBTRYLNPYnKhvkzTj ",
-         "consumer_secret" : "fJpRag459qrlm9HLemopzeEVLZfYQdWTNg3C0vsZmxwr7y6rk6E ",
-         "access_token" : "1188341646317867008-OfkgbTBQj3IgFRI2DxY13L4RMirxy4 ",
-         "access_token_secret" : "eoDDfQd4g5NxFJn6wH8TrKYUB1ptfVhXeW0xZZfWHw4i1 "}
+         "consumer_key" : "FILL YOUR CONSUMER KEY HERE ",
+         "consumer_secret" : "FILL YOUR CONSUMER SECRET HERE ",
+         "access_token" : "FILL YOUR ACCESS TOKEN HERE ",
+         "access_token_secret" : "FILL YOUR ACCESS TOKEN SECRET "}
 
 
 status1 = True
